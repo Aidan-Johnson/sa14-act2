@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    position:relative;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+}
+
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: #007bff;
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #007bff;
+}
